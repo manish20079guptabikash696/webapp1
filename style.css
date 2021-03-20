@@ -12,5 +12,5 @@ body{
 	text-decoration: underline;
 }
 h1{
-	border: 2px solid red;
+	border: 10px dotted blue;
 }
