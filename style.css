@@ -4,3 +4,6 @@ body{
 h1{
 	border: 10px dotted blue;
 }
+h2{
+	background-color: green;
+}
