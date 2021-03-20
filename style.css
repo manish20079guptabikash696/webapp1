@@ -11,3 +11,11 @@ body{
 	text-transform: uppercase;
 	text-decoration: underline;
 }
+h1{
+	padding: 30px;
+}
+h1:hover{
+	word-spacing: 30px;
+	letter-spacing: 10px;
+	transition: 1s ease-out;
+}
