@@ -1,15 +1,5 @@
 body{
-	background-color: #7BD44F;
-	margin: 0;
-	padding: 0;
-	width: 100%;
-	min-height: 100vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	color: #fff;
-	text-transform: uppercase;
-	text-decoration: underline;
+	background-color: yellow;
 }
 h1{
 	border: 10px dotted blue;
