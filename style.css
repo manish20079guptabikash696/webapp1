@@ -11,3 +11,6 @@ body{
 	text-transform: uppercase;
 	text-decoration: underline;
 }
+h1{
+	border: 2px solid red;
+}
